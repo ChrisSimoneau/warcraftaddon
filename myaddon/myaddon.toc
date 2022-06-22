@@ -1,0 +1,7 @@
+## Interface: 90200
+## Title: myaddon
+## Notes: heroes never die!
+## Author: Me
+## Version: 0.0.1 b
+
+myaddon.lua
